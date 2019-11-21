@@ -16,8 +16,13 @@ Login -> Dashboard -> Open Class Page -> Download/Upload assignment
 Login -> Dashboard -> Open Class Page -> Upload assignment or Check for Submission
 
 Technologies:
+
 Server: Flask
+
 Backend: python3
+
 Database: MySql
+
 Frontend: JS, HTML, CSS
+
 Unit testing Needed
